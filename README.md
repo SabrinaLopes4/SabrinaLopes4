@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SabrinaLopes4
-- 👀 I’m interested in  desenvolver sites 
-- 🌱 I’m currently learning  CSS3
-- 💞️ I’m looking to collaborate on para projetos para incluir no portifolio
-- 📫 How to reach me  no email:silva.sabrina1232@gmail.com
+- 👋Olá, sou Sabrina Lopes 
+- 👀 Estou interessada em desenvolver sites 
+- 🌱 Atualmente estudando  CSS3
+- 💞️Busco colaborar em projetos para incluir no portifolio
+- 📫 Entrar em contato comigo atrás  do email:silva.sabrina1232@gmail.com
 
 
 <!---
